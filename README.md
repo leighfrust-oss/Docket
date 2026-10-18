@@ -4,6 +4,7 @@ Docket: a simple, offline Windows app for managing documents, tasks, a document 
 **Documents:** drawers, folders, links, trash and file uploads
 
 **Status board:** tasks, concerns, signatures and suppliers
+
 **Document Register:** tracks versions, status and review dates
 
 Monthly report you can print or save as PDF
