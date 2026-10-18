@@ -87,7 +87,3 @@ If Docket saves you time, you can support its development:
 <a href="https://buymeacoffee.com/YOUR-NAME"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-f5a524?logo=buymeacoffee&logoColor=white" alt="Buy me a coffee"></a>
 
 Found a bug or have an idea? [Open an issue](https://github.com/leighfrust-oss/Docket/issues).
-
-## License
-
-Add your license here (see the Licenses tab on GitHub, or choose one when adding a LICENSE file).
