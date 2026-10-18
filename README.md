@@ -14,9 +14,11 @@ Monthly report you can print or save as PDF
 
 **Everything is stored on your computer, with no account or internet needed**
 
-**Install:** download Docket Setup 1.0.0.exe below and run it. 
+**Install:** download Docket Setup 1.0.0.exe at the side and run it. 
 
 
 Appreciate a small support <3 
 this is my first ever app :))
+
+
 https://buymeacoffee.com/leighbenj
