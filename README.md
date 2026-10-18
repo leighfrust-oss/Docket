@@ -84,6 +84,6 @@ Everything is saved in `Documents\Docket` on your computer (records, uploaded fi
 
 If Docket saves you time, you can support its development:
 
-<a href="https://buymeacoffee.com/YOUR-NAME"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-f5a524?logo=buymeacoffee&logoColor=white" alt="Buy me a coffee"></a>
+<a href="https://buymeacoffee.com/leighbenj"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-f5a524?logo=buymeacoffee&logoColor=white" alt="Buy me a coffee"></a>
 
 Found a bug or have an idea? [Open an issue](https://github.com/leighfrust-oss/Docket/issues).
